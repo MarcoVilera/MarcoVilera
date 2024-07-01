@@ -8,7 +8,7 @@ Many of my projects have been mainly backend based, but I like frontend developm
 
 Wanna chat? you can reach me at:
 
-[![Gmail Badge](https://img.shields.io/badge/-marcovilarev123%40gmail.com-22272e?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:marcovilarev123@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-marcovilarev123%40gmail.com-22272e?style=for-the-badge&logo=Gmail&logoColor=#EA4335)](mailto:marcovilarev123@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-marcovilarev-22272e?style=for-the-badge&logo=Discord&logoColor=#5661eb)](#)
 
 <!-- want to know more about me? check out my [portfolio](https://marco-portfolio.vercel.app/) -->
