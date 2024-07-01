@@ -1,12 +1,12 @@
-[![Typing SVG](/assets/typing.svg)](#)
+[![Typing SVG](/assets/descarga.svg)](#)
 
 Hi there 👋, my name is **Marco** and I am a **Computer Engineering Student**. I have been working with **ReactJS** and **NodeJS** for the past year. But i know a couple of things in others languages,  love to learn new things, both programming and any technology topic.
 
-I am passionate about **Web Development** and **Software Engineering**. I am also interested in **Machine Learning** and **AI**. I am always looking to collaborate on projects and connect with like-minded people. If you would like to collaborate on a project or just chat, feel free to reach out to me.
+I am passionate about **Web Development** and **Software Engineering**. Also interested in **Machine Learning** and **AI**. I am always looking to collaborate on projects and connect with like-minded people. If you would like to collaborate on a project or just chat, feel free to reach out to me.
 
 Many of my projects have been mainly backend based, but I like frontend development just as much.
 
-wanna chat? you can reach me at
+Wanna chat? you can reach me at:
 
 [![Gmail Badge](https://img.shields.io/badge/-marcovilarev123%40gmail.com-22272e?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:marcovilarev123@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-marcovilarev-22272e?style=for-the-badge&logo=Discord&logoColor=#5661eb)](#)
