@@ -1,4 +1,4 @@
-[![Typing SVG](/assets/descarga.svg)](#)
+[![Typing SVG](/assets/typing.svg)](#)
 
 Hi there 👋, my name is **Marco** and I am a **Computer Engineering Student**. I have been working with **ReactJS** and **NodeJS** for the past year. But i know a couple of things in others languages,  love to learn new things, both programming and any technology topic.
 
