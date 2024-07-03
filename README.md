@@ -11,7 +11,7 @@ Wanna chat? you can reach me at:
 [![Gmail Badge](https://img.shields.io/badge/-marcovilarev123%40gmail.com-22272e?style=for-the-badge&logo=Gmail&logoColor=#EA4335)](mailto:marcovilarev123@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-marcovilarev-22272e?style=for-the-badge&logo=Discord&logoColor=#5661eb)](#)
 
-<!-- want to know more about me? check out my [portfolio](https://marco-portfolio.vercel.app/) -->
+Want to know more about me? check out my [portfolio](https://portfolio-lvkx6b4tm-marcovileras-projects.vercel.app/)
 
 Some of the programming languages and technologies that i've worked with:
 
